@@ -8,7 +8,7 @@ Welcome to my personal Data Analyst Portfolio website. This site showcases my da
 - Project showcases with visual dashboards and code links
 - About Me section with skills and education
 - Contact form
-- Dark/Light Mode toggle
+
 
 ## 🛠️ Technologies Used
 
@@ -22,6 +22,7 @@ Welcome to my personal Data Analyst Portfolio website. This site showcases my da
 - COVID-19 Dashboard (Kenya, Uganda, Tanzania)
 - Road Accident Dashboard (India)
 - Student Records Management (MySQL)
+- Modelling Survival among Tuberculosis Patients in Vihiga County.
 
 ## 🌐 Live Preview
 
@@ -29,8 +30,8 @@ Welcome to my personal Data Analyst Portfolio website. This site showcases my da
 
 ## 📬 Contact
 
-- Email: yourname@email.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
+- Email: emmanuelouma2000@gmail.com
+- LinkedIn: https://www.linkedin.com/in/emmanuel-ouma-660518221
 
 ---
 
